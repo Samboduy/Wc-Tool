@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCWC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f5667d54e1ec634f58b7d9deb485e8b0644aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCWC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCWC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

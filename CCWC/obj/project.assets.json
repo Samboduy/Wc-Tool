@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\RiderProjects\\CCWC\\CCWC.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\Wc-Tool\\CCWC\\CCWC.csproj",
       "projectName": "CCWC",
-      "projectPath": "C:\\Users\\Sam\\RiderProjects\\CCWC\\CCWC.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\Wc-Tool\\CCWC\\CCWC.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\RiderProjects\\CCWC\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\Wc-Tool\\CCWC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

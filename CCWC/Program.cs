@@ -5,9 +5,6 @@ using CCWC;
 bool running = true;
 
 Console.WriteLine("type exit to exit");
-StreamReader reader = new StreamReader("C:\\Users\\Sam\\RiderProjects\\CCWC\\test.txt");
-string line =  reader.ReadLine();
-Console.WriteLine(line);
 while (running)
 {
     string input = Console.ReadLine();
